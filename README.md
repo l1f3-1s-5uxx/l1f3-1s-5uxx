@@ -5,6 +5,16 @@ const aboutMe = {
   role: "Fullstack Developer"
 };
 =========================================================================================================================================
+const technologies = [
+  "HTML",
+  "CSS",
+  "Sass",
+  "JavaScript",
+  "TypeScript",
+  "React",
+  "Node.js",
+  "SQL"
+];
 
 tg: @l1f3_1s_5uxx
 -------------------------------------
